@@ -5,20 +5,15 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
-      <p>I am an <strong>Electronics & Communication Engineering (ECE)</strong> student with a genuine passion for software development. I enjoy exploring new technologies and building practical, real-world projects to continuously expand my technical skills and problem-solving abilities.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+- 🎓 **Education:** Electronics & Communication Engineering (ECE) Student
+- 🌱 **Focus:** Currently learning modern web development by building small real-world projects
+- 💻 **Experience:** Building personal portfolio websites and interactive 3D web experiences
+- 🚀 **Interests:** JavaScript, 3D Web Graphics, Git, and modern web technologies
+- 📚 **Learning Style:** Gaining knowledge through personal projects and continuous practice
 
 ---
 
-## 🌐 Social Links
+## 🌐 Socials
 
 <p align="center">
   <a href="https://github.com/shanikumar13" target="_blank">
@@ -39,10 +34,17 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Primary Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js" alt="Languages" />
+  </a>
+</p>
+
+### 📖 Currently Learning (Basic Knowledge)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
   </a>
 </p>
 
@@ -53,7 +55,7 @@
   </a>
 </p>
 
-### 🧊 3D
+### 🧊 3D Web Graphics
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
@@ -68,13 +70,20 @@
   </a>
 </p>
 
+### 🚀 Deployment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shanikumar13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=shanikumar13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shanikumar13&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=shanikumar13&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -82,7 +91,7 @@
 ## ⚡ Top Languages
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanikumar13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanikumar13&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -90,21 +99,21 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanikumar13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanikumar13&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📑 GitHub Profile Summary Cards
+## 📑 Profile Summary Cards
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanikumar13&theme=tokyonight" alt="Profile Details" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanikumar13&theme=tokyonight" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanikumar13&theme=github_dark" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanikumar13&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanikumar13&theme=tokyonight" alt="Stats Summary" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanikumar13&theme=tokyonight" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanikumar13&theme=github_dark" alt="Stats Summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanikumar13&theme=github_dark" alt="Productive Time" />
 </p>
 
 ---
@@ -112,5 +121,11 @@
 ## 👁️ Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanikumar13&style=for-the-badge&label=PROFILE+VIEWS&color=0891b2" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=shanikumar13&style=for-the-badge&label=PROFILE+VIEWS&color=2ea44f" alt="Visitor Counter" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed with ❤️ by Shani Kumar</sub>
 </p>
