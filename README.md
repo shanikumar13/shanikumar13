@@ -6,14 +6,14 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** Electronics & Communication Engineering (ECE) Student
-- 🌱 **Focus:** Currently learning modern web development by building small real-world projects
-- 💻 **Experience:** Building personal portfolio websites and interactive 3D web experiences
-- 🚀 **Interests:** JavaScript, 3D Web Graphics, Git, and modern web technologies
-- 📚 **Learning Style:** Gaining knowledge through personal projects and continuous practice
+- 💻 **Projects:** Building small websites and personal web projects
+- 🚀 **Interests:** Interested in JavaScript and modern web technologies
+- 🌱 **Approach:** Learning by creating real projects
+- ⚡ **Mindset:** Always improving
 
 ---
 
-## 🌐 Socials
+## 🌐 Social Links
 
 <p align="center">
   <a href="https://github.com/shanikumar13" target="_blank">
@@ -37,43 +37,21 @@
 ### 💻 Primary Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,js" alt="Primary Languages" />
   </a>
 </p>
 
-### 📖 Currently Learning (Basic Knowledge)
+### 🎨 Frontend & Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend & Backend" />
   </a>
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
-  </a>
-</p>
-
-### 🧊 3D Web Graphics
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
-  </a>
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
 </p>
 
 ### 🧰 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-  </a>
-</p>
-
-### 🚀 Deployment
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools" />
   </a>
 </p>
 
@@ -91,7 +69,7 @@
 ## ⚡ Top Languages
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanikumar13&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanikumar13&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -104,28 +82,8 @@
 
 ---
 
-## 📑 Profile Summary Cards
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanikumar13&theme=github_dark" alt="Profile Details" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanikumar13&theme=github_dark" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanikumar13&theme=github_dark" alt="Stats Summary" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanikumar13&theme=github_dark" alt="Productive Time" />
-</p>
-
----
-
 ## 👁️ Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanikumar13&style=for-the-badge&label=PROFILE+VIEWS&color=2ea44f" alt="Visitor Counter" />
-</p>
-
----
-
-<p align="center">
-  <sub>Designed with ❤️ by Shani Kumar</sub>
 </p>
