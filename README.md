@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shani Kumar</h1>
-<h3 align="center">Electronics & Communication Engineering (ECE) Student • Aspiring Software Developer</h3>
+<h3 align="center">Electronics & Communication Engineering (ECE) Student | Aspiring Software Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Electronics & Communication Engineering (ECE) Student
-- 💻 **Passion:** Full Stack Development, AI & 3D Web Technologies
-- 🌱 **Learning:** Modern technologies by building real-world projects
-- 🚀 **Mindset:** Always exploring, creating, and improving every day
-- 💬 **Ask Me About:** JavaScript, React, Git, GitHub, and Java
+- 🎓 Electronics & Communication Engineering (ECE) Student
+- 💻 Passionate about Software Development and AI
+- 🌱 Learning modern technologies by building real-world projects
+- 🚀 Always exploring, creating and improving
+- 💬 Ask me about JavaScript, Git, GitHub and Java
 
 ---
 
-## 🌐 Socials
+## 🌐 Social Links
 
 <p align="center">
   <a href="https://github.com/shanikumar13" target="_blank">
@@ -34,32 +34,32 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,js" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" alt="Languages" />
   </a>
 </p>
 
-### 🎨 Frontend & 3D Development
+### 🎨 Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,threejs" alt="Frontend & 3D" />
+    <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
+  </a>
+</p>
+
+### 🧊 3D Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
   </a>
   <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
 </p>
 
-### ⚙️ Backend & Database
+### 🧰 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & DB" />
-  </a>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,vercel,netlify" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
   </a>
 </p>
 
@@ -72,13 +72,25 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=shanikumar13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
+## ⚡ Top Languages
+
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanikumar13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 👀 Visitor Counter
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanikumar13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 👁️ Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanikumar13&style=for-the-badge&label=PROFILE+VIEWS&color=0891b2" alt="Visitor Counter" />
