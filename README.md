@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Shani Kumar</h1>
-<h3 align="center">Electronics & Communication Engineering (ECE) Student | Aspiring Software Developer</h3>
+<h1 align="center">Hi 👋 I'm Shani Kumar</h1>
+<h3 align="center">Electronics & Communication Engineering (ECE) Student</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Electronics & Communication Engineering (ECE) Student
-- 💻 Passionate about Software Development and AI
-- 🌱 Learning modern technologies by building real-world projects
-- 🚀 Always exploring, creating and improving
-- 💬 Ask me about JavaScript, Git, GitHub and Java
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <p>I am an <strong>Electronics & Communication Engineering (ECE)</strong> student with a genuine passion for software development. I enjoy exploring new technologies and building practical, real-world projects to continuously expand my technical skills and problem-solving abilities.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,7 +53,7 @@
   </a>
 </p>
 
-### 🧊 3D Development
+### 🧊 3D
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
@@ -86,6 +91,20 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanikumar13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📑 GitHub Profile Summary Cards
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanikumar13&theme=tokyonight" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanikumar13&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanikumar13&theme=tokyonight" alt="Stats Summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanikumar13&theme=tokyonight" alt="Productive Time" />
 </p>
 
 ---
