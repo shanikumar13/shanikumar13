@@ -5,11 +5,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Electronics & Communication Engineering (ECE) Student
-- 💻 **Projects:** Building small websites and personal web projects
-- 🚀 **Interests:** Interested in JavaScript and modern web technologies
-- 🌱 **Approach:** Learning by creating real projects
-- ⚡ **Mindset:** Always improving
+- 🎓 **Electronics & Communication Engineering (ECE) Student**
+- 💻 **Building small personal websites and interactive web projects**
+- 🌱 **Currently improving my JavaScript and web development skills**
+- 🚀 **Learning by building real-world projects**
+- 📚 **Passionate about continuous learning**
 
 ---
 
@@ -41,14 +41,14 @@
   </a>
 </p>
 
-### 🎨 Frontend & Backend
+### 🌐 Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend & Backend" />
+    <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
   </a>
 </p>
 
-### 🧰 Tools
+### 🛠️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools" />
@@ -66,10 +66,15 @@
 
 ---
 
-## ⚡ Top Languages
+## 📑 GitHub Summary
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanikumar13&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanikumar13&theme=github_dark" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanikumar13&theme=github_dark" alt="Stats Summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanikumar13&theme=github_dark" alt="Productive Time" />
 </p>
 
 ---
