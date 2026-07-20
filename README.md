@@ -66,18 +66,6 @@
 
 ---
 
-## 📑 GitHub Summary
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanikumar13&theme=github_dark" alt="Profile Details" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanikumar13&theme=github_dark" alt="Stats Summary" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanikumar13&theme=github_dark" alt="Productive Time" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
